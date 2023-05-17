@@ -31,7 +31,7 @@ public class TablePartF{
 	// OR YOU WON'T RECEIVE POINTS FROM THE GRADER
 	   
 	//1. update the data in a particular cell using the put() method
-	//2. Reading values from Result class object
+	//2. Reading values from Result class object to retrieve all versions of all columns, with the most recent version coming first
 
 	for (Cell cell : ???) {
 		byte[] family = = ???;
