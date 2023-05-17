@@ -28,7 +28,10 @@ public class TablePartF{
 
 	// TODO      
 	// DON' CHANGE THE 'System.out.println(xxx)' OUTPUT PART
-	// OR YOU WON'T RECEIVE POINTS FROM THE GRADER      
+	// OR YOU WON'T RECEIVE POINTS FROM THE GRADER
+	   
+	//1. update the data in a particular cell using the put() method
+	//2. Reading values from Result class object
 
 	for (Cell cell : ???) {
 		byte[] family = = ???;
