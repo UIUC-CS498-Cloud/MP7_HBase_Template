@@ -23,7 +23,7 @@
 # ARM64/aarch64: /usr/lib/jvm/java-8-openjdk-arm64
 # X84_64: /usr/lib/jvm/java-1.8.0-openjdk-amd64
 
-if [ "$(uname -m)" = "x86_64" ]; then export JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-amd64; else export JAVA_HOME=/usr/lib/jvm/java-1.11.0-openjdk-arm64; fi
+if [ "$(uname -m)" = "x86_64" ]; then export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64; else export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-arm64; fi
 
 # Extra Java CLASSPATH elements.  Optional.
 # export HBASE_CLASSPATH=
